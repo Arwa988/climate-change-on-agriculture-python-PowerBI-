@@ -1,0 +1,9 @@
+# Climate Change on Agriculture
+## Project Idea :
+Many Countries suffer from lack in the  agriculture in some crop types due to unsuitable climate weather or lack of soil needs , so countries  have to import these crops that costs it economically . 
+so we have to know the needed conditions for each crop to provide it rather than buying it from other countries
+## Tools used :
+- Python for data exploration and preprocessing
+- PowerBI for data visualization
+## Dashboard:
+![climate-change-on-agriculture-python-powerBI]()
