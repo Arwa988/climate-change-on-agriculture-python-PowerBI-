@@ -8,4 +8,6 @@ so we have to know the needed conditions for each crop to provide it rather than
 ## Dashboard:
 ![climate-change-on-agriculture-python-powerBI](https://github.com/Arwa988/climate-change-on-agriculture-python-PowerBI-/blob/main/Screenshot%20(82).png)
 
+![climate-change-on-agriculture-python-powerBI](https://github.com/Arwa988/climate-change-on-agriculture-python-PowerBI-/blob/main/Screenshot%20(81).png)
+## Recommendation :
 ![climate-change-on-agriculture-python-powerBI](
