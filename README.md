@@ -14,6 +14,6 @@ so we have to know the needed conditions for each crop to provide it rather than
 -  all crop types  has a great crop yield at low Precipitation , so crops are too sensitive to floods and heavy rains
 -  Every Crop type has its own Fertilizer and pesticide percentage need so we have to know each
 ## Recommendation :
--We can use greenhouses that maintain ideal temperature by isolating plant from external weather.
--we can use Sensors that monitor the plant needs as Fertilizer , pesticide and  water level 
--We can use Machine Learning models that predict the weather conditions in order to be ready for any extreme weather conditions
+- We can use greenhouses that maintain ideal temperature by isolating plant from external weather.
+- we can use Sensors that monitor the plant needs as Fertilizer , pesticide and  water level 
+- We can use Machine Learning models that predict the weather conditions in order to be ready for any extreme weather conditions
